@@ -1,2 +1,7 @@
 theme: minima
+minima:
+  nav_pages:
+    - about.md
 title:
+author:
+description: 
